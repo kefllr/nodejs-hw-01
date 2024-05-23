@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "name": "Luis Cronin",
+    "phone": "1-490-996-8116",
+    "email": "Berry_Brown@yahoo.com",
+    "job": "Legacy Configuration Consultant"
+  },
+  {
+    "name": "Dr. Jamie O'Connell",
+    "phone": "697-204-8666",
+    "email": "Scotty83@gmail.com",
+    "job": "Product Intranet Producer"
+  },
+  {
+    "name": "Nancy Senger",
+    "phone": "529.734.9342 x097",
+    "email": "Camron.Ratke@gmail.com",
+    "job": "National Web Producer"
+  },
+  {
+    "name": "Crystal Gutkowski",
+    "phone": "443.250.1970 x06210",
+    "email": "Genevieve_Bruen@gmail.com",
+    "job": "Human Marketing Associate"
+  },
+  {
+    "name": "Ray Hyatt Sr.",
+    "phone": "1-791-397-4707 x330",
+    "email": "Max20@yahoo.com",
+    "job": "Corporate Data Technician"
+  },
+  {
+    "name": "Clinton Ryan",
+    "phone": "812.938.7186 x082",
+    "email": "Christopher.Fahey@gmail.com",
+    "job": "Internal Interactions Officer"
+  }
+]
